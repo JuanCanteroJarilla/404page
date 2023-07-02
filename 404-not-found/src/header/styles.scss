@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'headerFont';
+    src: url('../assets/fonts/Inconsolata-VariableFont_wdth\,wght.ttf') format('truetype');
+}
+
+.headerTitle {
+    margin-left: 2%;
+    font-family: 'headerFont', sans-serif;
+}
